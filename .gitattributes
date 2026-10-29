@@ -1,0 +1,3 @@
+# Keep vendor documents byte-for-byte (PDF offsets and email bytes must not be rewritten)
+*.pdf binary
+*.eml -text

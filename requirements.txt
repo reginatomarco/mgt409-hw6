@@ -1,0 +1,6 @@
+pydantic-ai==2.55.0
+openai==3.29.0
+httpx==0.28.1
+python-dotenv==1.2.3
+pypdf==6.16.2
+tiktoken==0.14.0

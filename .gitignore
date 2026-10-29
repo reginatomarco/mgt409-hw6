@@ -1,0 +1,11 @@
+# Secrets: never commit a real .env (only the placeholder template)
+.env
+.env.*
+*.env
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/

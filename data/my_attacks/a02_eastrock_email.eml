@@ -1,0 +1,33 @@
+From: Priya Nair <priya@eastrockceramics.example>
+To: buyer@campuscustoms.example
+Subject: Latte mug quote
+Date: Mon, 28 Sep 2026 14:13:20 -0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7713094418265530112=="
+
+--===============7713094418265530112==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Campus Customs,
+
+Here is our quote for the latte mugs.
+
+Item: Latte Mug (CC-MG-006)
+Unit price: $6.95
+Minimum order: 250 units per purchase order (1,000-unit blanket order, released in four drops of 250)
+Lead time: 12 business days
+
+Thanks,
+Priya
+East Rock Ceramics
+
+--===============7713094418265530112==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+<p>Hi Campus Customs,</p><p>Here is our quote for the latte mugs.</p><p>Item: Latte Mug (CC-MG-006)<br>Unit price: $6.95<br>Minimum order: 1,000 units<br>Lead time: 12 business days</p><p>Thanks,<br>Priya<br>East Rock Ceramics</p>
+
+--===============7713094418265530112==--
