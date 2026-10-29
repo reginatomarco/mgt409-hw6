@@ -152,3 +152,7 @@
 > Okay, cool. We're now on problem 10. Push to GitHub and submit the URL. So before we submit, make a readme.md file in the folder that just explains how to run the agent for the grader. And follow the structure that I'm gonna attach. Oh, and don't commit the real.env file. Use a .gitignore to keep it out. And include a .env.example with placeholders only.
 >
 > *(attached: screenshot of the expected repo structure: AI\_prompts.md, README.md, .gitignore, .env.example, requirements.txt, agent.py, tools.py, models.py, prompts/prompt.md, data/ with shop\_handbook.md, prices.json, practice\_key.json, practice\_docs/, exam\_docs/, my\_attacks/, and output/ with handbook\_estimate.md, harness.md, usage\_log.json, audit\_trail.json, trap\_calls.json, cache\_test.json, cache\_test.md, attack\_results.json, attack\_results.md, defense\_results.json, defense\_results.md, red\_team.md, exam\_results.json, hw6\_report.html)*
+
+- **2026-10-29 00:03:41 UTC** — **Problem 10: Push to GitHub and submit the URL:**
+
+> Okay, great. Push the repo and we're done. Thanks.
